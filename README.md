@@ -1,9 +1,9 @@
 # Mobile Application for BOATS (Bicycle Obstacle Detection and Alert Systems)
 *for public view only*
 
-For the Final Requirement of Polytechnic University of the Philippines CpE Practice and Design
+For the Final Requirement of Polytechnic University of the Philippines **CpE Practice and Design**
 
-This is a part of the thesis that was successfully finished on July 10, 2023. This Mobile Application was completed on July 28, 2023 due to additional features suggested by the panelists. 
+This is a part of the thesis that was successfully finished on **July 10, 2023**. This Mobile Application was completed on **July 28, 2023** due to additional features suggested by the panelists. 
 
 
 ## Features
